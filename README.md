@@ -1,5 +1,10 @@
 # My Projects Manager
 
+![https://raw.githubusercontent.com/rubenandrebarreiro/my-projects-manager/master/imgs/JPGs/banner-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/my-projects-manager/master/imgs/JPGs/banner-1.jpg)
+######  My Projects Manager - Banner #1
+
+***
+
 > You can check all my projects here and all their related useful information. The projects developed until the moment are the following:
 
 | # | Name of Project | Brief Description | Privacy | Version | Progression | Duration | Price |
