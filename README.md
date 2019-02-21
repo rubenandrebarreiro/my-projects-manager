@@ -21,7 +21,12 @@
 | 10 | [`3D Object Viewer - Super Mario Bros.`](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros) | `Visualization of all the main and secondary characters present in this videogame from Super Mario Bros.' Universe! 🎮 🕹️ 👾` | `Private` | `0.1` | [![current progress of this project](http://progressed.io/bar/40)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros) | `Jan 2019 - Now` | `Free` |
 | 11 | [`UniMaterials`]() | `Mobile application for sales, exchanges or donations of university material between college students in Portugal and Europe! 📱 👨‍🎓 📚` | `Private` | `0.1` | [![current progress of this project](http://progressed.io/bar/10)]() | `Jan 2019 - Now` | `Not defined yet` |
 
+I hope you enjoy it!
 
-> I hope you enjoy it, kind regards!
+You can view my **_web-based portfolio/personal blog_** _online_, [clicking here](https://rubenandrebarreiro.github.io/)!
 
-Rúben André Barreiro
+_Thank you very much,_
+<br>
+_Kind regards!_
+
+**_Rúben André Letra Barreiro_**
