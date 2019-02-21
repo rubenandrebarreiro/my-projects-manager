@@ -1,1 +1,1 @@
-# my-projects-manager
+# My Projects Manager
