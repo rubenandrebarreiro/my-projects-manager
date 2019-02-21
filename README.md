@@ -7,7 +7,7 @@
 
 > You can check all my projects here and all their related useful information. The projects developed until the moment are the following:
 
-| # | Name of Project | Brief Description | Privacy | Version | State | Duration | Price |
+| # | Name of Project | Brief Description | Privacy | Version | Progress | Duration | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [`Rúben André Barreiro - GitHub's Portfolio/Personal Blog`](https://rubenandrebarreiro.github.io/) | `My personal web-based GitHub's portfolio/personal blog! 👤 💻 🖱️` | `Public` | `1.0` | [![current progress of this project](http://progressed.io/bar/100)](https://rubenandrebarreiro.github.io/) | `Feb 2018 - Now` | `Free` |
 | 2 | [`2D Fractals - Benoit Mandelbrot & Gaston Julia Sets`](https://github.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia/) | `Visualization of Fractals' structures with multiple scales and, using some of the both Benoit Mandelbrot and Gaston Julia's sets! 💠 🔷 🔻` | `Public` | `1.0` | [![current progress of this project](http://progressed.io/bar/100)](https://github.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia/) | `Oct 2016` | `Free` |
