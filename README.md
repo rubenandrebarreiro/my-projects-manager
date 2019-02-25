@@ -29,7 +29,7 @@ I hope you enjoy it!
 
 You can view my **_web-based portfolio/personal blog_** _online_, [clicking here](https://rubenandrebarreiro.github.io/)!
 
-If you have any suggestion, feel free and tell me!
+If you have any suggestion, feel free to tell me!
 
 _Thank you very much,_
 <br>
